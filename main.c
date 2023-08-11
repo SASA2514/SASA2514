@@ -4,6 +4,7 @@
  *  Created on: 18 Jul 2023
  *      Author: mosta
  */
+//LCD THAT PRINTS NAME AND COLLEGE
 #include <util/delay.h>
 #include <stdio.h>
 #include <avr/io.h>
